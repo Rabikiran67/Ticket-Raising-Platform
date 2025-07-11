@@ -20,21 +20,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-1.  [Project Overview](#-project-overview)
-2.  [Key Features](#-key-features)
-3.  [Tech Stack](#-tech-stack)
-4.  [Screenshots](#-screenshots)
-5.  [Getting Started](#-getting-started)
-6.  [Usage](#-usage)
-7.  [Future Plans](#-future-plans)
-8.  [Contributing](#-contributing)
-9.  [License](#-license)
-10. [Contact](#-contact)
-
----
-
 ## 🚀 Project Overview
 
 This application provides a complete solution for managing support requests. It features a statistical dashboard, a comprehensive ticket list with filtering, a Kanban-style board to visualize workflow, and an AI-powered assistant to suggest the correct department when a new ticket is created.
