@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📫 Contact
 
-Rabi Kiran - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - your.email@example.com
+Rabi Kiran - [Portfolio](https://rabi-kiran-web.vercel.app/) 
 
 Project Link: [Github Repo](https://github.com/Rabikiran67/Ticket-Raising-Platform)
 
