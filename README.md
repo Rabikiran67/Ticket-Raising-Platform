@@ -174,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rabi Kiran - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - your.email@example.com
 
-Project Link: [https://github.com/your-username/your-repository-name](https://github.com/your-username/your-repository-name)
+Project Link: [Github Repo](https://github.com/Rabikiran67/Ticket-Raising-Platform))
 
 <div align="center">
 
