@@ -25,22 +25,24 @@ This application provides a complete solution for managing support requests. It 
 
 ## Screenshots
 
-All screenshots are stored in the `public/screenshots` directory and are referenced below:
+> **Note:**
+> - For the running app, screenshots are served from `public/screenshots`.
+> - For GitHub README display, screenshots are stored in a top-level `.public/screenshots` folder in the repository root and referenced below.
 
 ### Dashboard
-![Dashboard View](/screenshots/Dashboard.png)
+![Dashboard View](.public/screenshots/Dashboard.png)
 *The main dashboard provides at-a-glance statistics and a list of recent tickets.*
 
 ### Workflow Board
-![Workflow Board](/screenshots/Workflow-Board.png)
+![Workflow Board](.public/screenshots/Workflow-Board.png)
 *A Kanban-style board to visualize and manage the ticket lifecycle.*
 
 ### All Tickets Page
-![All Tickets Page](/screenshots/All-Tickets-Page.png)
+![All Tickets Page](.public/screenshots/All-Tickets-Page.png)
 *Search, filter, and manage all support tickets from a centralized list.*
 
 ### Create Ticket Page
-![Create Ticket Page](/screenshots/Create-Ticket-Page.png)
+![Create Ticket Page](.public/screenshots/Create-Ticket-Page.png)
 *An intuitive form for creating new tickets, complete with an AI suggestion feature.*
 
 ---
