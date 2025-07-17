@@ -177,7 +177,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Rabi Kiran - [Portfolio](https://rabi-kiran-web.vercel.app/)
 
 Project Link: [Github Repo](https://github.com/Rabikiran67/ticket-raising-platform)  
-Live Website: [Live](https://ticket-raising-platform-jinv.vercel.app/)
 
 <div align="center">
 
