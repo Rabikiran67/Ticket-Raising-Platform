@@ -9,7 +9,7 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Next.js](https://img.shields.io/badge/Next.js-0000tyle=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 </div>
@@ -37,8 +37,8 @@ HelpDesk is a modern, responsive help desk and ticket management platform. It fe
 
 | Category          | Technology                                                                                                  |
 | ----------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Framework**     | [Next.js](https://nextjs.org/) (App Router)                                                                |
-| **Language**      | TypeScript                                                                                                 |
+| **Framework**     | [Next.js](https://nextjs.org/) (App Router)                                                                 |
+| **Language**      | TypeScript                                                                                                   |
 | **Styling**       | [Tailwind CSS](https://tailwindcss.com/)                                                                    |
 | **UI Components** | [ShadCN UI](https://ui.shadcn.com/)                                                                         |
 | **State Mgt.**    | React Context API                                                                                           |
@@ -49,37 +49,38 @@ HelpDesk is a modern, responsive help desk and ticket management platform. It fe
 ## 🗃️ Data Model
 
 **Ticket**
-- `id`: number
-- `title`: string
-- `description`: string
-- `department`: string
-- `priority`: low" | medium" | high"
-- `status`: "open" |in-progress | esolved" | "closed- `requesterName`: string
-- `requesterEmail`: string
-- `createdAt`: ISO string
-- `updatedAt`: ISO string
+- `id`: number  
+- `title`: string  
+- `description`: string  
+- `department`: string  
+- `priority`: "low" | "medium" | "high"  
+- `status`: "open" | "in-progress" | "resolved" | "closed"  
+- `requesterName`: string  
+- `requesterEmail`: string  
+- `createdAt`: ISO string  
+- `updatedAt`: ISO string  
 
 ---
 
 ## 📸 Screenshots
 
-> **Note:**
-> - All screenshots are located in the **root folder** of the repository and are referenced directly in this README.
+> **Note:**  
+> All screenshots are located in the **root folder** of the repository and are referenced directly in this README.
 
-### Dashboard
-![Dashboard View](./Dashboard.png)
+### Dashboard  
+![Dashboard View](./Dashboard.png)  
 *The main dashboard provides at-a-glance statistics and a list of recent tickets.*
 
-### Workflow Board
-![Workflow Board](./Workflow-Board.png)
+### Workflow Board  
+![Workflow Board](./Workflow-Board.png)  
 *A vertical workflow board to visualize and manage the ticket lifecycle.*
 
-### All Tickets Page
-![All Tickets Page](./All-Tickets-Page.png)
+### All Tickets Page  
+![All Tickets Page](./All-Tickets-Page.png)  
 *Search, filter, and manage all support tickets from a centralized list.*
 
-### Create Ticket Page
-![Create Ticket Page](./Create-Ticket-Page.png)
+### Create Ticket Page  
+![Create Ticket Page](./Create-Ticket-Page.png)  
 *An intuitive form for creating new tickets.*
 
 ---
@@ -91,7 +92,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 Make sure you have the following installed on your system:
-- [Node.js](https://nodejs.org/) (v18or newer)
+- [Node.js](https://nodejs.org/) (v18 or newer)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
@@ -132,18 +133,18 @@ Make sure you have the following installed on your system:
 
 ## 🏗️ Architecture
 
-- **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS, ShadCN UI.
-- **State Management:** React Context API, all ticket data is stored in browser localStorage.
+- **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS, ShadCN UI.  
+- **State Management:** React Context API, all ticket data is stored in browser localStorage.  
 - **No backend or authentication yet** (planned for future releases).
 
 ---
 
 ## 🚀 Future Plans
 
-- [ ] **User Authentication & Roles:** Sign-up/sign-in, admin/agent/client roles.
-- [ ] **Advanced Analytics:** Charts and graphs for ticket resolution, agent performance, and trends.
-- [ ] **Email Notifications:** Notify users and agents of ticket updates and status changes.
-- [ ] **Knowledge Base:** Integrated FAQ and knowledge articles.
+- [ ] **User Authentication & Roles:** Sign-up/sign-in, admin/agent/client roles.  
+- [ ] **Advanced Analytics:** Charts and graphs for ticket resolution, agent performance, and trends.  
+- [ ] **Email Notifications:** Notify users and agents of ticket updates and status changes.  
+- [ ] **Knowledge Base:** Integrated FAQ and knowledge articles.  
 - [ ] **Full-Featured Dark Mode:** Theme toggle for light/dark modes.
 
 ---
@@ -154,11 +155,11 @@ Contributions are what make the open-source community amazing! Any contributions
 
 If you have a suggestion, please fork the repo and create a pull request. You can also open an issue with the tag "enhancement".
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the Project  
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)  
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)  
+4. Push to the Branch (`git push origin feature/AmazingFeature`)  
+5. Open a Pull Request  
 
 Don't forget to give the project a star! Thanks again!
 
@@ -180,4 +181,4 @@ Project Link: [Github Repo](https://github.com/Rabikiran67/ticket-raising-platfo
 
 ---
 **Crafted with code & music 🎧 by Rabi Kiran 🤍**
-</div> 
+</div>
