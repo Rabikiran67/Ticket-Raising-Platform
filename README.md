@@ -64,22 +64,22 @@ HelpDesk is a modern, responsive help desk and ticket management platform. It fe
 ## 📸 Screenshots
 
 > **Note:**
-> - All screenshots are located in the `public/screenshots` folder and are served from there in the running app and referenced in this README.
+> - All screenshots are located in the **root folder** of the repository and are referenced directly in this README.
 
 ### Dashboard
-![Dashboard View](public/screenshots/Dashboard.png)
+![Dashboard View](./Dashboard.png)
 *The main dashboard provides at-a-glance statistics and a list of recent tickets.*
 
 ### Workflow Board
-![Workflow Board](public/screenshots/Workflow-Board.png)
+![Workflow Board](./Workflow-Board.png)
 *A vertical workflow board to visualize and manage the ticket lifecycle.*
 
 ### All Tickets Page
-![All Tickets Page](public/screenshots/All-Tickets-Page.png)
+![All Tickets Page](./All-Tickets-Page.png)
 *Search, filter, and manage all support tickets from a centralized list.*
 
 ### Create Ticket Page
-![Create Ticket Page](public/screenshots/Create-Ticket-Page.png)
+![Create Ticket Page](./Create-Ticket-Page.png)
 *An intuitive form for creating new tickets.*
 
 ---
@@ -92,7 +92,7 @@ To get a local copy up and running, follow these steps.
 
 Make sure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (v18or newer)
--npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
 
@@ -123,7 +123,8 @@ Make sure you have the following installed on your system:
 ## 💡 Usage
 
 - **Dashboard:** View ticket stats and recent activity.
-- **Create a Ticket:** Use the "Create Ticket page.- **Manage Tickets:** Use the All Tickets" page to filter, search, and update tickets.
+- **Create a Ticket:** Use the "Create Ticket" page.
+- **Manage Tickets:** Use the "All Tickets" page to filter, search, and update tickets.
 - **Track Progress:** Use the "Workflow Board" to view tickets by status.
 - **View Details:** Click a ticket to open a modal with full details.
 
@@ -151,12 +152,12 @@ Make sure you have the following installed on your system:
 
 Contributions are what make the open-source community amazing! Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion, please fork the repo and create a pull request. You can also open an issue with the tag enhancement".
+If you have a suggestion, please fork the repo and create a pull request. You can also open an issue with the tag "enhancement".
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -mAdd some AmazingFeature`)
-4.Push to the Branch (`git push origin feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
 Don't forget to give the project a star! Thanks again!
@@ -175,7 +176,7 @@ Rabi Kiran - [Portfolio](https://rabi-kiran-web.vercel.app/)
 
 Project Link: [Github Repo](https://github.com/Rabikiran67/ticket-raising-platform)
 
-<div align=center">
+<div align="center">
 
 ---
 **Crafted with code & music 🎧 by Rabi Kiran 🤍**
