@@ -9,7 +9,7 @@ export function Footer() {
           Crafted with code & music 🎧 by Rabi Kiran 🤍
         </p>
         <div className="flex items-center gap-4">
-            <Link href="https://github.com/rabik-kiran" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository">
+            <Link href="https://github.com/Rabikiran67/ticket-raising-platform/tree/main" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository">
             <Github className="h-5 w-5 text-muted-foreground hover:text-foreground transition-colors" />
             </Link>
         </div>
