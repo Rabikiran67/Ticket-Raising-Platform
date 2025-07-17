@@ -19,7 +19,7 @@
 
 ## 🚀 Project Overview
 
-HelpDesk is a modern, responsive help desk and ticket management platform. It features a dashboard, comprehensive ticket list, and a workflow board. All state is managed client-side using React Context and localStorage. There is no backend or AI integration at this time.
+HelpDesk is a modern, responsive help desk and ticket management platform. It features a dashboard, comprehensive ticket list, and a workflow board.
 
 ---
 
