@@ -22,6 +22,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable}`}>
+      <head>
+        <link rel="icon" href="/jira.png" type="image/png" />
+      </head>
       <body className="font-sans antialiased">
         <AuthProvider>
             {children}
